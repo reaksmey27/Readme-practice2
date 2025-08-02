@@ -6,7 +6,7 @@ A Node.js-based application designed to simplify and automate bank administrativ
 
 ---
 
-## 📚 Table of Contents
+## 📊 Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
