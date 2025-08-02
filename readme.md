@@ -1,7 +1,8 @@
-# 🏫 School Management System
-[![app](https://img.shields.io/badge/School_management_system-Administrator-green)](https://getbootstrap.com)
+# 🏦 Bank Management System
+![badge](https://img.shields.io/badge/Bank%20Management%20System-Administrator-green?style=flat&logo=github&logoColor=gray)
 
-A Node.js-based application designed to simplify and automate school administrative tasks such as managing students, teachers, classes, attendance, and more.
+
+A Node.js-based application designed to simplify and automate bank administrative tasks such as managing customers, employees, accounts, transactions, and more.
 
 ---
 
@@ -22,10 +23,9 @@ A Node.js-based application designed to simplify and automate school administrat
 
 ## ✨ Features
 
-- Student & Teacher Management
-- Class & Subject Assignment
-- Attendance Tracking
-- Exam Results
+- Customer & Employee Management
+- Account & Transaction Management
+- Loan & Credit Processing
 - User Authentication (JWT)
 - Admin Dashboard
 
@@ -54,10 +54,10 @@ A Node.js-based application designed to simplify and automate school administrat
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/school-management-system.git
+git clone https://github.com/your-username/bank-management-system.git
 ```
 ```bash
-cd school-management-system
+cd bank-management-system
 ```
 
 ```bash
@@ -65,7 +65,7 @@ npm install
 ```
 
 ## Screenshot 
-![Dashboard](dashboard.png)
+![Dashboard](https://www.bootstrapdash.com/wp-content/uploads/2022/03/screencapture-bootstrapdash-demo-purple-jquery-template-demo-1-2022-03-04-09_46_51-1.png)
 
 ## 🔧 Usage 
 To run the server in development mode:
@@ -88,10 +88,10 @@ http://localhost:3000/api
 |Method | Endpoint            | Description       |
 |-------|---------------------|-------------------|
 | POST   |/api/auth/login      | Login to system   |
-| GET   |/api/students      | Login to system   |
-| POST   |/api/students      | Login to system   |
-| PUT   |/api/students/:id      | Login to system   |
-| DELETE   |/api/tudents/:id     | Login to system   |
+| GET   |/api/customers      | Login to system   |
+| POST   |/api/customers      | Login to system   |
+| PUT   |/api/customers/:id      | Login to system   |
+| DELETE   |/api/customers/:id     | Login to system   |
 
 
 ## 🔑 Environment Variables
@@ -111,7 +111,9 @@ npm test        # Run test cases
 
 ## 👥 Contributors
 
-![@Reaksmey](/images/photo_2023-04-24_20-39-57.jpg)
+<a href="https://github.com/reaksmey27/Readme-practice2/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=reaksmey27/Readme-practice2" />
+</a>
 
 
 ## 📄 License
