@@ -31,7 +31,7 @@ A Node.js-based application designed to simplify and automate bank administrativ
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 
 - **Programming Language**: JavaScript (Node.js)
 - **Runtime**: Node.js
@@ -114,7 +114,6 @@ npm test        # Run test cases
 <a href="https://github.com/reaksmey27/Readme-practice2/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=reaksmey27/Readme-practice2" />
 </a>
-
 
 ## 📄 License
 This project is licensed under the MIT License.
